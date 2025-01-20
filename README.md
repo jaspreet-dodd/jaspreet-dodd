@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a MSc student studying Neuroscience at Queen's University 🧠
+I'm a MSc student studying Computational Neuroscience at Queen's University 🧠
 * 🔭 I’m currently working on building my computational and mathematical skills
 * 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/jaspreetdodd/
 <!--
